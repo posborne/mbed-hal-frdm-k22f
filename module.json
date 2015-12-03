@@ -1,0 +1,32 @@
+{
+  "name": "mbed-hal-frdm-k22f",
+  "version": "0.1.0",
+  "description": "mbed HAL for the Freescale FRDM-K22F development board",
+  "keywords": [
+    "mbed",
+    "hal",
+    "k22f",
+    "ksdk",
+    "frdm",
+    "freescale"
+  ],
+  "author": "Paul Osborne <osbpau@gmail.com>",
+  "repository": {
+    "url": "git@github.com:posborne/mbed-hal-frdm-k22f.git",
+    "type": "git"
+  },
+  "homepage": "https://github.com/posborne/mbed-hal-frdm-k22f",
+  "licenses": [
+    {
+      "url": "https://spdx.org/licenses/Apache-2.0",
+      "type": "Apache-2.0"
+    }
+  ],
+  "extraIncludes": [
+    "mbed-hal-frdm-k22f"
+  ],
+  "dependencies": {
+    "mbed-hal": "*"
+  },
+  "targetDependencies": {}
+}
